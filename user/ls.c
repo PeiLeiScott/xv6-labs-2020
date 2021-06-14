@@ -23,7 +23,7 @@ fmtname(char *path)
 }
 
 void
-ls(char *path)
+ls(char *path) 
 {
   char buf[512], *p;
   int fd;
